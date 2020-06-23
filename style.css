@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F2F5FE;
+}
+.container {
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: white;
+}
+
+.inactive {
+    visibility: hidden;
+}
+
+.active {
+    visibility: visible;
+    background-color: green;
+}
+
+.food {
+    visibility: visible;
+    background-color: green;
+}
+
+.score {
+    width: 300px;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
