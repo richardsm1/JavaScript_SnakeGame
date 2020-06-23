@@ -1,2 +1,2 @@
 # snake
-Jogo Snake feito apenas com manipulação de classes CSS via JavaScript.
+Jogo Snake feito apenas com manipulação de classes de elementos HTML com JavaScript.
